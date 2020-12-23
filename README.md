@@ -13,5 +13,5 @@ Meu nome é Carlos Cenci, desenvolvedor Web, Design UI/UX, estudando e aprendend
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscenci&layout=default&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://www.clipartmax.com/png/full/292-2925302_graphic-design-ui-ux-design-png.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+<img src="https://www.clipartmax.com/png/full/292-2925302_graphic-design-ui-ux-design-png.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
