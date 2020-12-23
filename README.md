@@ -7,9 +7,11 @@ Meu nome é Carlos Cenci, desenvolvedor Web, Design UI/UX, estudando e aprendend
 - 🖥 Cursando Ciência e Tecnologia pela universidade UFERSA.
 - 🚀 Cursando o bootcamp da Rocketseat, o GoStack 13.
 
-<div style="background: url('https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png'); background-position: right bottom; height: 600px; background-repeat: no-repeat;" >
+<div align="center">
 
 [![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carloscenci&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscenci&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 </div>
