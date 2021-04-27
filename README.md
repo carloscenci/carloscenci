@@ -19,7 +19,7 @@ Meu nome é Carlos Cenci, desenvolvedor Web, Design UI/UX, estudando e aprendend
 <p align="left">
  <strong>
 - 🖥 Cursando Ciência e Tecnologia pela universidade UFERSA.
-- 🚀 Cursando o bootcamp da Rocketseat, o GoStack 13.
+- 🚀 Cursando o bootcamp da Rocketseat, o IGNITE.
 </p>
 
 [![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carloscenci&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
