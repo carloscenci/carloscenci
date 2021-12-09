@@ -83,6 +83,21 @@ Meu nome é Carlos Cenci, desenvolvedor Web, Design UI/UX, estudando e aprendend
 
   <br />
   <br />
+ 
+ <strong> ORM ⚡ </strong>
+
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+
+  <br />
+  <br />
+ 
+  <strong> Hosting/SaaS ⚡ </strong>
+
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+  <br />
+  <br />
+ 
 </div>
   
 <div>
@@ -103,7 +118,7 @@ Meu nome é Carlos Cenci, desenvolvedor Web, Design UI/UX, estudando e aprendend
 
   <br />
   <br />
-  
+
   <strong> Styles 💄 </strong>
 
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
@@ -111,5 +126,22 @@ Meu nome é Carlos Cenci, desenvolvedor Web, Design UI/UX, estudando e aprendend
   <img alt="SASS" src="https://img.shields.io/badge/sass-E10098.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
   <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
   </p>
+  
+  
+ <strong> IDEs/Editors 💻️ </strong>
+  
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+  <br />
+  <br />
+  
+   <strong> Design 🖌️ </strong>
+  
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
+  <br />
+  <br />
 
 </div>
