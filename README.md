@@ -34,10 +34,11 @@ Meu nome é Carlos Cenci, desenvolvedor Web, Design UI/UX, estudando e aprendend
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-cenci-5771921b1/" /></a>
 </p>  
 ---- 
+
 ### Redes sociais 🔌
 <sub>Manda um "Oi" <br>
 [<img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost&theme=dark" />](https://app.rocketseat.com.br/me/carlos-cenci-00767) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/carlos-cenci-5771921b1/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/carlos-cenci-5771921b1/)
 [<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark&link=mailto:carlosc.estevam@gmail.com">](mailto:carlosc.estevam@gmail.com)   
 </sub>
 
