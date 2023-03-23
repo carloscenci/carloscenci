@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-Meu nome é Carlos Cenci, desenvolvedor Web, Design UI/UX, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com tecnologias frontend usando VueJS com o framework NuxtJS e ReactJS, no mobile usando React Native!
+Meu nome é Carlos Cenci, desenvolvedor Web, Design UI/UX, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com tecnologias frontend usando VueJS com o framework NuxtJS e ReactJS / Next JS, no mobile usando React Native!
 </p>
 
 <p align="left">
  <strong>
-- 🔭 Atualmente trabalhando como desenvolvedor na empresa Brisanet Telecomunicações.
+- 🔭 Atualmente trabalhando como desenvolvedor na empresa Uol Compass.
 </p>
 
 <p align="left">
